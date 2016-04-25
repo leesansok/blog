@@ -10,7 +10,7 @@ title: 李大夫——专治疑难杂症
 email: 20476617@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   这个人很懒！
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://www.mrsan.cn" # the subpath of your site, e.g. /blog
 encoding: utf-8
 url: "http://www.mrsan.cn" # the base hostname & protocol for your site
 twitter_username: Doctor__li
